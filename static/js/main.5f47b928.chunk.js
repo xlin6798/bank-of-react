@@ -1,0 +1,2 @@
+(this["webpackJsonpbank-of-react"]=this["webpackJsonpbank-of-react"]||[]).push([[0],{66:function(e,t,n){"use strict";n.r(t);var c=n(1),r=n.n(c),a=n(29),i=n.n(a),o=(n(16),n(17),n(8),n(33),n(30),n(7),n(6),n(2),n(0));n(20);i.a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)("div",{children:"hi"})}),document.getElementById("root"))}},[[66,1,2]]]);
+//# sourceMappingURL=main.5f47b928.chunk.js.map
